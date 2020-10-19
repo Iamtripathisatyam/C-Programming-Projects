@@ -7,4 +7,3 @@
 After doing these projects you will have the Immmense knowledge about C concepts!
 So without any wasting of time let's start doing These projects with a Fresh and Hilarous mind!**
 
-![Cool](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
