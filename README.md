@@ -8,9 +8,11 @@ _________________________________
 
 <h1 align="center">C Programming Projects</h1>
 <h3 align="center">
+  
 - In This Repository you will get all my C Programming Projects which I made in `2 Months`.
 - After doing these projects you will have the Immmense knowledge about C concepts.
-- So without any wasting of time let's start doing These projects with a Fresh and Hilarous mind.</h3>
+- So without any wasting of time let's start doing These projects with a Fresh and Hilarous mind.
+</h3>
 
 _______________________________________
 
